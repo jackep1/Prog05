@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Version4.dir/main.cpp.o: dyndep
+
+build CMakeFiles/Version4.dir/Source/file_ops.cpp.o: dyndep
+
+build CMakeFiles/Version4.dir/Source/line_sort.cpp.o: dyndep
+

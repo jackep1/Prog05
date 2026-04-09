@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Version4.dir/Source/file_ops.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
