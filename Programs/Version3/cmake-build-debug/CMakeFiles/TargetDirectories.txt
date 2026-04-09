@@ -1,0 +1,5 @@
+/home/jack/Desktop/URI/CSC412/Prog05/Programs/Version3/cmake-build-debug/CMakeFiles/Version3.dir
+/home/jack/Desktop/URI/CSC412/Prog05/Programs/Version3/cmake-build-debug/CMakeFiles/Dv3.dir
+/home/jack/Desktop/URI/CSC412/Prog05/Programs/Version3/cmake-build-debug/CMakeFiles/Pv3.dir
+/home/jack/Desktop/URI/CSC412/Prog05/Programs/Version3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jack/Desktop/URI/CSC412/Prog05/Programs/Version3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
